@@ -8,6 +8,7 @@ public class BilloffApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BilloffApplication.class, args);
+		System.out.println("SUCCESS: BILL_OF_MATERIAL dependency added!!!");
 	}
 
 }
